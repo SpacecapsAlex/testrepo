@@ -6,3 +6,5 @@ result = number1 * number2
 print(f'mul = {result}')
 result = number1 + number2
 print(f'сумма равна - {result}')
+result = number1 - number2
+print(f'Разница - {result}')
